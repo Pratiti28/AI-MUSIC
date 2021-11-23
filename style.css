@@ -1,0 +1,23 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+}
+
+.note{
+    color: darkslategray;
+    font-size: 20px;
+}
+
+body{
+    background-size: cover;
+}
+
+canvas{
+    border: 5px forestgreen solid;
+    border-radius: 70px;
+}
+
+.note2{
+    color: ghostwhite;
+    font-size: 20px;
+}
